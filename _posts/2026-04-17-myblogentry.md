@@ -8,7 +8,7 @@ mathjax: true
 author: Bill Smith
 ---
 
-Biomedical research is specially good at producing huge amounts of data—from genomics to proteomics to metabolomics. Besides the sheer storage that is needed, findings can be scattered in laboratories accross different countries and many times locked behind proprietary software or paywalls. A 2017 article from the *Trends in Biotechnology* journal, titled "Metabolizing Data in the Cloud" by Warth *et al.* [1] shows how cloud platforms solve this by delivering global sharing and accessibility without the need of expensive local hardware.
+Biomedical research is specially good at producing huge amounts of data—from genomics to proteomics to metabolomics. Besides the sheer storage that is needed, findings can be scattered in laboratories accross different countries and many times locked behind proprietary software or paywalls. A 2017 article from the *Trends in Biotechnology* journal, titled "Metabolizing Data in the Cloud" by Warth *et al.* [1], shows how cloud platforms solve this by delivering global sharing and accessibility without the need of expensive local hardware.
 
 The paper spotlights XCMS Online, a cloud platform with over 50,000 users that handles untargeted metabolomics data end-to-end: from raw LC/MS processing, statistical analysis, metabolite identification via METLIN database, pathway mapping, and multi-omics integration.
 - **Cost savings**: Over $70M saved for the community vs. vendor software (projected $250M by 2021), with development costs under $2M.
