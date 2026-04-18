@@ -2,7 +2,7 @@
 layout: post
 title: Metabolizing Data in the Cloud
 subtitle: Main Applications of Cloud Computing in Metabolomics
-tags: [cloud metabolomics xcms]
+tags: [cloud, metabolomics, xcms]
 comments: true
 mathjax: true
 author: Bill Smith
