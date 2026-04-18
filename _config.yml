@@ -135,14 +135,6 @@ footer-hover-col: "#0085A1"
 # --- Misc --- #
 ################
 
-# For numbered references
-site:
-  options:
-    numbered_references: true
-
-bibliography:
-  - hol1_refs.bib
-
 # Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
