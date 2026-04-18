@@ -21,7 +21,7 @@ Nearly a decade later, XCMS Online's model inspired platforms like PhenoMeNal an
 
 ##### References
 
-[1] B. Warth, N. Levin, D. Rinehart, J. Teijaro, H. P. Benton, and G. Siuzdak, “Metabolizing data in the cloud,” Trends in Biotechnology, vol. 35, no. 6, pp. 481–483, Jan. 2017, doi: [10.1016/j.tibtech.2016.12.010](10.1016/j.tibtech.2016.12.010).
+[1] B. Warth, N. Levin, D. Rinehart, J. Teijaro, H. P. Benton, and G. Siuzdak, “Metabolizing data in the cloud,” Trends in Biotechnology, vol. 35, no. 6, pp. 481–483, Jan. 2017, doi: [https://doi.org/10.1016/j.tibtech.2016.12.010](10.1016/j.tibtech.2016.12.010).
 
 
 
